@@ -1,3 +1,3 @@
 #!/bin/bash
-aspell -t check $name
+aspell -t check doc.tex
 pdflatex doc.tex
